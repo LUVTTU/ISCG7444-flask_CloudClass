@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ISCG7444-flask.iml" filepath="$PROJECT_DIR$/.idea/ISCG7444-flask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ISCG7444-flask_CloudClass.iml" filepath="$PROJECT_DIR$/.idea/ISCG7444-flask_CloudClass.iml" />
     </modules>
   </component>
 </project>
