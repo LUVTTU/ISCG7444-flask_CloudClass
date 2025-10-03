@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="claw" uuid="41a77609-0e2a-45aa-add2-0472571d0ac0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://tcp.ap-northeast-1.clawcloudrun.com:40910/iscg7444</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="iscg7444_6x1b@dpg-d3fg9iadbo4c73e028e0-a.oregon-postgres.render.com" uuid="a2f3a28f-f4e0-4d51-b797-84465ef6391b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://dpg-d3fg9iadbo4c73e028e0-a.oregon-postgres.render.com/iscg7444_6x1b</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
